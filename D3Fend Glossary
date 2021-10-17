@@ -1,7 +1,27 @@
 MITRE D3FEND Glossary - Gleaned from the MITRE D3fend Ontology (Work in progress)
 
 
-Analyst - "A D3FEND analyst is a cybersecurity analyst who authors one or more D3FEND analyses" - Source: Mitre D3fend Ontology
+D3FEND Analyst - "A D3FEND analyst is a cybersecurity analyst who authors one or more D3FEND analyses" - Source: Mitre D3fend Ontology
+
+D3FEND Analysis - "A D3FEND analysis asserts which defensive techniques were determined to be implemented a product." ... "D3FEND analysis things are supplementary 
+concepts that allow for specifying and documenting product instantiations of the capabilities defined D3FEND Framework" - Source: Mitre D3fend Ontology
+
+D3FEND Analysis Object - 
+
+D3FEND Knowledeg Base Object - 
+
+D3FEND Model -  "A knowledge graph of cybersecurity countermeasures" - Source: Mitre D3fend Website (https://d3fend.mitre.org/about) 
+
+D3FEND Product - 
+
+D3FEND Ontology - See https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html
+
+D3FEND Tools - 
+
+D3FEND Things - "D3FEND Things are concepts defined in the core D3FEND Framework" - Source: Mitre D3fend Ontology
+
+Ontology - "An ontology defines a common vocabulary for researchers who need to share information in a domain. It includes machine-interpretable definitions of basic 
+concepts in the domain and relations among them" Source: N. Noy and D. McGuiness (2000) https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html 
 
 User  - "is a person [or agent] who uses a computer or network service. Users generally use a system or a software product without the technical expertise required to 
 fully understand it. Power users  - use advanced features of programs, though they are not necessarily capable of computer programming and system administration. A user
