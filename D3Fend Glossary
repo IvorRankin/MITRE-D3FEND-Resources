@@ -1,6 +1,19 @@
-MITRE D3FEND Glossary - Gleaned from the MITRE D3fend Ontology (Work in progress)
+MITRE D3FEND Glossary - Gleaned from the MITRE D3fend Ontology  and MITRE Resources  (Work in progress....)
 
+D3FEND - Provides a "... model of defensive techniques and artifacts ..... (and a) ...methodology for curating content into new knowledge and tying it to its source 
+information in meaningful ways." Source: Toward a Knowledge Graph of Cybersecurity Countermeasures by Peter E. Kaloroumakis & M.J.Smith (MITRE). 
+Website: https://d3fend.mitre.org/resources/D3FEND.pdf 
 
+D3FEND's Long-term Goals -1. To "create a sustainable knowledge framework for characterizing and relating cybersecurity countermeasure technology; and 
+                          2. To "accelerate knowledge discovery and acquisition efforts required to keep pace with technological changes in the cyber domain"
+                          (P.Kaloroumakis & M.Smith)
+                          
+D3FEND Organization Approach - Kaloroumakis & Smith state that "There are three key information organization approaches ... used to create D3FEND: 
+1. A conceptual framework which “explains, either graphically or in narrative form, the main things to be studied—the key factors, constructs, or variables—and
+the presumed relationships among them”. 
+2. A domain knowledge model which “is used to reduce conceptual and terminological confusion” and foster communication, reusability, and cooperation. 
+3. A knowledge graph which provides a flexible representation of knowledge and enables complex machine reasoning about the domain."
+                          
 D3FEND Analyst - "A D3FEND analyst is a cybersecurity analyst who authors one or more D3FEND analyses" - Source: Mitre D3fend Ontology
 
 D3FEND Analysis - "A D3FEND analysis asserts which defensive techniques were determined to be implemented a product." ... "D3FEND analysis things are supplementary 
