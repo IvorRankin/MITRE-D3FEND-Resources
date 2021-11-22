@@ -13,6 +13,22 @@ D3FEND Organization Approach - Kaloroumakis & Smith state that "There are three 
 the presumed relationships among them”. 
 2. A domain knowledge model which “is used to reduce conceptual and terminological confusion” and foster communication, reusability, and cooperation. 
 3. A knowledge graph which provides a flexible representation of knowledge and enables complex machine reasoning about the domain."
+
+D3FEND's Key Stages/Tactics Defined (MItre D3FEND):
+
+1. Harden: "The harden tactic is used to increase the opportunity cost of computer network exploitation. Hardening differs from Detection in that it generally is conducted before a system is
+
+online and operational".
+
+2. Detect: "The detect tactic is used to identify adversary access to or unauthorized activity on computer networks".
+
+3. Isolate: "The isolate tactic creates logical or physical barriers in a system which reduces opportunities for adversaries to create further accesses".
+
+4. Deceive: "The deceive tactic is used to advertise, entice, and allow potential attackers access to an observed or controlled environment". 
+
+5. Evict: "The eviction tactic is used to remove an adversary from a computer network".
+
+D3FEND Gloassary:
                           
 D3FEND Analyst - "A D3FEND analyst is a cybersecurity analyst who authors one or more D3FEND analyses" - Source: Mitre D3fend Ontology
 
